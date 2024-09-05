@@ -1,0 +1,13 @@
+{
+  "name": "tickets",
+  "version": "1.0.0",
+  "description": "projectos de gerenciamento de tickets de uporte, feito com node js sem bibliotecas(dependecias ou pacotes)",
+  "main": "src/server.js",
+  "type":"module",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "Felisberto Alberto",
+  "license": "ISC"
+}
